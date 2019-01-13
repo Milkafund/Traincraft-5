@@ -248,7 +248,7 @@ public enum EnumTrains {
 			ItemIDs.minecartLocoCoranationClass.item, "steam", 2500, 183, 0, 60, 200, 300, 0.6, 0.97, 10000, null, 10,
 			-6),
 	locoSteamGS4("Loco Steam GS4", EntityLocoSteamGS4.class,  ItemIDs.minecartGS4_Loco.item, "steam", 5500, 180, 0, 60, 350, 450, 0.6, 0.95, 8800, new String[]{"Orange", "White"}, 10, -6 ),
-	locoSteamEr_USSR("Loco Steam ER_USSR", EntityLocoSteamEr_Ussr.class, ItemIDs.minecartLocoEr.item,"steam", 800, 80, 0, 80, 100, 200, 0.35, 0.975, 10000, null, 10, -3.7 ),
+	locoSteamEr_USSR("Loco Steam ER_USSR", EntityLocoSteamEr_Ussr.class, ItemIDs.minecartLocoEr.item,"steam", 1300, 80, 0, 80, 100, 200, 0.35, 0.975, 10000, null, 10, -3.7 ),
 	locoSteamC41("Loco Steam C41", EntityLocoSteamC41.class, ItemIDs.minecartLocoC41.item,"steam", 800, 120, 0, 80, 100, 200, 0.35, 0.975, 4000, null, 10, -3.4 ),
 	locoSteamC41_080("Loco Steam C41 0-8-0", EntityLocoSteamC41_080.class, ItemIDs.minecartLocoC41_080.item,"steam", 800, 120, 0, 80, 100, 200, 0.35, 0.975, 4000, null, 10, -3.4 ),
 	locoSteamAlcoSc4("Loco Steam Alco SC4", EntityLocoSteamAlcoSC4.class, ItemIDs.minecartLocoAlcoSC4.item,"steam", 800, 120, 0, 80, 100, 200, 0.35, 0.975, 4000, null, 10, -3.4 ),
